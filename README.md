@@ -14,8 +14,11 @@ This project serves as a great example of harnessing the power of artificial int
 
 Technologies:
 -Python 🐍
+
 -Tkinter ⚙️
+
 -OpenAI ChatGPT API 🚀
+
 
 Note: Before using the application, make sure you have a valid API key from OpenAI and save it in a file named "api_key" in the application directory. 🔑
 
