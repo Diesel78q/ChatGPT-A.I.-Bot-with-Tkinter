@@ -13,9 +13,9 @@ Features:
 This project serves as a great example of harnessing the power of artificial intelligence to create an interactive chatbot. 🚀 It can be used as a starting point for developing your own applications that incorporate text generation models and provide interactive user experiences.
 
 Technologies:
-Python 🐍
-Tkinter ⚙️
-OpenAI ChatGPT API 🚀
+-Python 🐍
+-Tkinter ⚙️
+-OpenAI ChatGPT API 🚀
 
 Note: Before using the application, make sure you have a valid API key from OpenAI and save it in a file named "api_key" in the application directory. 🔑
 
